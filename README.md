@@ -12,6 +12,7 @@ The example shows that Milcore handles DirectX in a really efficient way but not
 
 ## Credits
 - [Minhook](https://github.com/TsudaKageyu/minhook)
+- [ImGui](https://github.com/ocornut/imgui)
 - Pattern Scanner (Credits to original owner)
 
 ## License
