@@ -1,7 +1,7 @@
 # WPF D3D9 Hook (Milcore)
 **WARNING: This is an experimental project which should not be used in production.**
 
-This is a research project on how DirectX interfaces with WPF (Milcore) under the hood. The project does not really server any function. However, it's a proof of concept on how DirectX 9 can be hooked to render ontop of native WPF components.
+This is a research project on how DirectX interfaces with WPF (Milcore) under the hood. The project does not really serve any function. However, it's a proof of concept on how DirectX 9 can be hooked to render ontop of native WPF components.
 
 <p align="center">
   <img src="static/example.png"/>
