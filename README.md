@@ -8,7 +8,7 @@ This is a research project on how DirectX interfaces with WPF (Milcore) under th
 </p>
 
 ## DirectX 9 in Milcore
-The example shows that Milcore handles DirectX in a really efficient way but not constantly rendering. My research suggests that `IDirect3DDevice9::EndScene` is only called when the state changes.
+The example shows that Milcore handles DirectX in a really efficient way but not constantly rendering. My research suggests that `IDirect3DDevice9::EndScene` is only called when the state changes and it only updates the region of the screen the control bounds resides in.
 
 ## Credits
 - [Minhook](https://github.com/TsudaKageyu/minhook)
